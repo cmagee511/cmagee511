@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmagee511
+- 👋 Hi, I’m Curtis
 - 👀 I’m interested in becoming a Data Analysis
 - 🌱 I’m currently learning how to use SQL and then Python to help me break into a data role
 
